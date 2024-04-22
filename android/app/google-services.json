@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393437900542",
+    "project_id": "stabrak-e70d8",
+    "storage_bucket": "stabrak-e70d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393437900542:android:6176fabfb26ffa14ef3faf",
+        "android_client_info": {
+          "package_name": "com.example.stabrak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbECPXt5p5EfTzYHxg2VgRxgq-vYayFCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
